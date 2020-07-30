@@ -1,0 +1,15 @@
+name: non_scalable_text
+description: A Flutter package for Text Widget that does not scale with the system font size.
+version: 1.0.0
+homepage: https://github.com/heqingbao/non_scalable_text
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
