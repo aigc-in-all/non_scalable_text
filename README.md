@@ -10,7 +10,7 @@ To use this plugin, add `non_scalable_text` as a [dependency in your pubspec.yam
 
 ``` dart
 import 'package:flutter/material.dart';
-import 'package:novel/components/non_scalable_text.dart';
+import 'package:non_scalable_text/non_scalable_text.dart';
 
 void main() {
   runApp(MyApp());
